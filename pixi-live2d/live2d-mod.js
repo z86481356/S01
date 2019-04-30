@@ -84,7 +84,7 @@ const modelHaru = {
 			{"file": "assets/haru/motions/Fighter.mtn","sound": "assets/haru/sounds/Fighter.mp3"},
 			{"file": "assets/haru/motions/HE_A.mtn","sound": "assets/haru/sounds/HE_A.mp3"},
 			{"file": "assets/haru/motions/ah.mtn","sound": "assets/haru/sounds/ah.mp3"},
-			{"file": "assets/haru/motions/Ah really.mtn","sound": "assets/haru/sounds/Will be heard.mp3"},
+			{"file": "assets/haru/motions/Ah really.mtn","sound": "assets/haru/sounds/Ah really.mp3"},
 			{"file": "assets/haru/motions/What else to excuse.mtn","sound": "assets/haru/sounds/What else to excuse.mp3"},
 		    {"file": "assets/haru/motions/RR hatehatehate.mtn","sound": "assets/haru/sounds/RR hatehatehate.mp3"}
 			],
